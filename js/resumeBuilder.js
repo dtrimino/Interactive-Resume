@@ -2,11 +2,11 @@ var bio = {
     "name": "Danny Trimino",
     "role": "Web Developer",
     "contacts": {
-        "mobile": "305-458-2556",
+        "mobile": "(305) 458-2556",
         "email": "dannytrimino@gmail.com",
         "gitHub": "dtrimino",
         "twitter": "@dannytdannyt",
-        "location": "Miami, Fl"
+        "location": "Miami, FL"
     },
 
     "welcomeMessage": "Hello there!",
@@ -68,6 +68,14 @@ var projects = {
     "projects": [
         {
             "title": "Sample Project 1",
+            "dates": "2016-2017",
+            "description": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.",
+            "images": [
+
+            ]
+        },
+        {
+            "title": "Sample Project 2",
             "dates": "2016-2017",
             "description": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.",
             "images": [
