@@ -9,9 +9,9 @@ var bio = {
         "location": "Miami, Fl"
     },
 
-    "welcomeMessage": "Hiya!",
+    "welcomeMessage": "Hello there!",
     "skills": [
-        "awesomeness", "delivering things", "sleep", "loving"
+        "HTML5", "CSS3", "JavaScript", "jQuery", "Photoshop", "Bootstrap",
     ],
 
     "bioPic": "images/fry.jpg"
@@ -44,13 +44,22 @@ var work = {
             "employer": "dkWeb2 Design & Development",
             "title": "Web Developer",
             "dates": "2015-Present",
-            "description": "Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue."
+            "description": "Conceptualized, planned and executed original designs for a wide range of website properties. Designed print and marketing initiatives for all website properties. Identified and eliminated website bugs to improve user experience. Used and contributed to style guides and other design documentation to maintain coherent information and interaction design patterns."
+
         },
         {
-            "employer": "dkWeb2 Design & Development",
-            "title": "Web Developer",
-            "dates": "2015-Present",
-            "description": "Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue."
+            "employer": "Happy Holidays Travel",
+            "title": "Director of Design",
+            "dates": "2011-2015",
+            "description": "Targeted both offline and online consumers by designing a multi-pronged and comprehensive marketing strategy.  Created effective messaging using language, graphics and marketing collateral.  Directed a successful search engine marketing campaign that utilized solid linking, technical and keyword research tactics. Updated and maintained graphics library records. Delivered production ready graphics in HTML and CSS for all marketing assets. Maintained consistent use of graphic imagery in materials and other marketing outreach. Formatted text and graphics for blog posts, newsletters and other materials."
+
+        },
+        {
+            "employer": "Merchant Advantage",
+            "title": "Customer Service Rep",
+            "dates": "2007-2011",
+            "description": "Managed wide variety of customer service and administrative tasks to resolve customer issues quickly and efficiently.  Ensured superior customer experience by addressing customer concerns, demonstrating empathy and resolving problems on the spot. Provided an elevated customer experience to generate a loyal clientele. Routinely answered customer questions regarding merchandise and pricing. Met or exceeded service and quality standards every review period. Acted professionally and patiently when addressing negative customer feedback. Effectively managed a high-volume of inbound and outbound customer calls."
+
         }
     ]
 }
