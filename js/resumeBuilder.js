@@ -67,9 +67,9 @@ var work = {
 var projects = {
     "projects": [
         {
-            "title": "Sample Project 1",
+            "title": "Classic Arcade Game",
             "dates": "2016-2017",
-            "description": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.",
+            "description": "Recreated the classic arcade game, Frogger, which can be found here: https://github.com/dtrimino/Classic-Arcade-Clone",
             "images": [
 
             ]
